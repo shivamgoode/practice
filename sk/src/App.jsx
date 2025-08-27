@@ -6,7 +6,7 @@ const App = () => {
       <div class="sm:mx-auto sm:w-full sm:max-w-sm">
         <img src="" alt="Your Company" class="mx-auto h-10 w-auto" />
         <h2 class="mt-10 text-center text-2xl/9 font-bold tracking-tight text-white">
-          Sign in to your account
+          Sign in to your
         </h2>
       </div>
 
